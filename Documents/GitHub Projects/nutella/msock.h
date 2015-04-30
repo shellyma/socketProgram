@@ -1,6 +1,5 @@
 /*
- CS3516 B09
- project2 nutella
+ Author:
  Xiaoli Ma
  
  */
