@@ -1,5 +1,4 @@
-CS3516 B09
-Project2 nutella
+
 Xiaoli Ma
 
 Peer client and server run one file. 
